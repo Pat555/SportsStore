@@ -1,3 +1,3 @@
 # SportsStore
 
-Web API
+Web API, MVC, Javascript, jquery, Ajax, knockout
